@@ -22,13 +22,12 @@ Build a new feature or reimagine an existing feature for any digital product of 
 
 - **8:30 AM**: Hackathon Prompt Instructions @ EnterpriseWorks Atrium
 - **9:00 AM**: Hacking Begins @ various UIRP locations
-- **12:00 PM - 1:00 PM**: Lunch provided @ EnterpriseWorks Atrium
 - **10:00 PM**: **Submission Deadline**
 
 ## Wednesday, July 2nd 2025
 
-- **12:00 PM - 1:30 PM**: Science Fair @ EnterpriseWorks Atrium
-- **5:00 PM**: Finalist presentations and awards ceremony
+- **12:00 PM - 1:00 PM**: Science Fair - present to judges @ EnterpriseWorks Atrium
+- **5:00 PM - 5:45PM**: Finalist presentations and awards ceremony
 
 # Submissions
 
@@ -71,13 +70,6 @@ Teams selected as finalists (see schedule) will be required to do a live presena
 - Copying code from other Hackathon teams is prohibited
 
 # Evaluations
-
-## Judges
-
-- **[Matt Ahrens](https://www.linkedin.com/in/matt-ahrens-b62984/)**: _Data Science_ - NVIDIA
-- **[Bryan Goode](https://www.linkedin.com/in/bdgoode/)**: _Talent Management_ - University of Illinois Research Park
-- **[Jarai Carter, PhD](https://www.linkedin.com/in/jaraicarter/)**: _Data Science_ - John Deere
-- **[Dustin Mayfield-Jones](https://www.linkedin.com/in/dustin-mayfield-jones-77432a40/)**: _Laboratory and Facilities Management_ - University of Illinois Research Park
 
 ## Pillars
 
