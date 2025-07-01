@@ -31,7 +31,7 @@ Build a new feature or reimagine an existing feature for any digital product of 
 
 # Submissions
 
-When ready, submit projects [here][submission_link].
+When ready, submit projects [here][submission_form_link].
 
 ## Requirements
 
