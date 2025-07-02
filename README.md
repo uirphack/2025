@@ -14,20 +14,20 @@ Welcome to the 2025 Research Park Hackathon! Here are some helpful links:
 
 # Submissions
 
-| Project Name                           | Company Name(s)                            | GitHub Repository                                                                    | YouTube Video                                 |
-| -------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------- |
-| Friendly Fineprint                     | Brunswick                                  | <https://github.com/akhil-boating/terms>                                             | <https://youtu.be/zlMk5BIRqVg>                |
-| Command & Quench                       | Brunswick                                  | <https://github.com/VelupallyG/command-and-quench>                                   | <https://youtu.be/o4Xay_xm6lc>                |
-| Labyrinth                              | Mondelez, UI Foundation                    | <https://github.com/axdrewho/labyrinth>                                              | <https://youtu.be/FDzp6GrEe70>                |
-| SpotOn                                 | John Deere                                 | <https://github.com/wgarrett707/hackathon-research-park/tree/main>                   | <https://www.youtube.com/watch?v=UlodKN2SXqU> |
-| Chalkboard (Cache Me If You Can)       | COUNTRY Financial                          | <https://github.com/Saurav51/chalkboard-uirp-hackathon/tree/main>                    | <https://www.youtube.com/watch?v=jXb46VWzm-c> |
-| Remaining Useful Life (RUL) Prediction | John Deere, PowerWorld, Singleton Law Firm | <https://github.com/eziCode/predictive_maintenance_uirp_hackathon>                   | <https://youtu.be/D9VeQEKnJwU>                |
-| WristPlay                              | COUNTRY Financial                          | <https://github.com/saiprakashgorti/wrist-play>                                      | <https://youtu.be/hYlGs88p6MU>                |
-| Party Mode                             | COUNTRY Financial                          | <https://github.com/Prach1810/ctrl_aux/tree/minjae-auth>                             | <https://youtu.be/FOzD3VdYtFc>                |
-| MixSpace                               | Brunswick                                  | <https://github.com/sw4th1/MysticalMagical>                                          | <https://tinyurl.com/hackathon-CGteam>        |
-| UniTion                                | Mondelez                                   | <https://github.com/sutanto5/UIRP_Research_Hackathon/tree/main>                      | <https://www.youtube.com/watch?v=vr5gB4RVUuw> |
-| Accenlent                              |                                            | <https://github.com/liw10456/Accenlent>                                              |                                               |
-| Duolingo World                         | Kohler                                     | <https://github.com/AkshatBhat/Action-Based-Language-Learning-For-Duolingo-Using-VR> | <https://youtu.be/9YljTx_-Joc>                |
+| Project Name                           | Company Name(s)                            | GitHub Repository                                                                    | YouTube Video                                                                        |
+| -------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| Friendly Fineprint                     | Brunswick                                  | <https://github.com/akhil-boating/terms>                                             | <https://youtu.be/zlMk5BIRqVg>                                                       |
+| Command & Quench                       | Brunswick                                  | <https://github.com/VelupallyG/command-and-quench>                                   | <https://youtu.be/o4Xay_xm6lc>                                                       |
+| Labyrinth                              | Mondelez, UI Foundation                    | <https://github.com/axdrewho/labyrinth>                                              | <https://youtu.be/FDzp6GrEe70>                                                       |
+| SpotOn                                 | John Deere                                 | <https://github.com/wgarrett707/hackathon-research-park/tree/main>                   | <https://www.youtube.com/watch?v=UlodKN2SXqU>                                        |
+| Chalkboard (Cache Me If You Can)       | COUNTRY Financial                          | <https://github.com/Saurav51/chalkboard-uirp-hackathon/tree/main>                    | <https://www.youtube.com/watch?v=jXb46VWzm-c>                                        |
+| Remaining Useful Life (RUL) Prediction | John Deere, PowerWorld, Singleton Law Firm | <https://github.com/eziCode/predictive_maintenance_uirp_hackathon>                   | <https://youtu.be/D9VeQEKnJwU>                                                       |
+| WristPlay                              | COUNTRY Financial                          | <https://github.com/saiprakashgorti/wrist-play>                                      | <https://youtu.be/hYlGs88p6MU>                                                       |
+| Party Mode                             | COUNTRY Financial                          | <https://github.com/Prach1810/ctrl_aux/tree/minjae-auth>                             | <https://youtu.be/FOzD3VdYtFc>                                                       |
+| MixSpace                               | Brunswick                                  | <https://github.com/sw4th1/MysticalMagical>                                          | <https://drive.google.com/file/d/1zJYAVPSVVz62O1o3HPMqnybDchF_KMyR/view?usp=sharing> |
+| UniTion                                | Mondelez                                   | <https://github.com/sutanto5/UIRP_Research_Hackathon/tree/main>                      | <https://www.youtube.com/watch?v=vr5gB4RVUuw>                                        |
+| Accenlent                              |                                            | <https://github.com/liw10456/Accenlent>                                              |                                                                                      |
+| Duolingo World                         | Kohler                                     | <https://github.com/AkshatBhat/Action-Based-Language-Learning-For-Duolingo-Using-VR> | <https://youtu.be/9YljTx_-Joc>                                                       |
 
 # Hackathon Prompt
 
