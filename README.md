@@ -12,6 +12,17 @@ Welcome to the 2025 Research Park Hackathon! Here are some helpful links:
 - [Kickoff Presentation][kickoff_presentation_link]
 - [Submission Form][submission_form_link]
 
+# Awards
+
+| Award                   | Project                                |
+| ----------------------- | -------------------------------------- |
+| **1st Place**           | **Party Mode**                         |
+| 2nd Place               | Labyrinth                              |
+| 3rd Place               | WristPlay                              |
+| Most Business Potential | Remaining Useful Life (RUL) Prediction |
+| Most Creative           | Duolingo World                         |
+| Fan Favorite            | UniTion                                |
+
 # Submissions
 
 | Project Name                           | Company Name(s)                            | GitHub Repository                                                                    | YouTube Video                                                                        |
